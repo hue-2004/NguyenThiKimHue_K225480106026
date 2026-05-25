@@ -1,5 +1,5 @@
-<img width="1867" height="957" alt="image" src="https://github.com/user-attachments/assets/6b192816-53ef-43de-a0b0-f9b5f4706aed" /># Môn: Phát triển ứng dụng với mã nguồn mở-TEE0421  
-
+# Môn: Phát triển ứng dụng với mã nguồn mở-TEE0421  
+Nguyễn Thị Kim Huệ 
 Lớp: 58KTPM  
 
 **Bài tập 04:**    
